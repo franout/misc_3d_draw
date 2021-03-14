@@ -1,2 +1,2 @@
-# misc_3d_draw
-A repository for miscellaneous 3D drawing
+# Miscellaneous 3D drawings
+A collection of 3D drawings printed with Anycubix Mega X printer. 
